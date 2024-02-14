@@ -1,0 +1,2 @@
+lunaa/radio/vm-bootsys.img filter=lfs diff=lfs merge=lfs -text
+lunaa/radio/modem.img filter=lfs diff=lfs merge=lfs -text
